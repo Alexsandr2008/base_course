@@ -9,5 +9,4 @@ if a + b > z and a + z > b and b + z > a:
         print("Треугольник равнобедренный")
     else:
         print ("Треугольник равностронний")
-else:
     
